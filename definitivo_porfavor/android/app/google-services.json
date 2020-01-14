@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492628127015",
+    "firebase_url": "https://parkingupc-60e4b.firebaseio.com",
+    "project_id": "parkingupc-60e4b",
+    "storage_bucket": "parkingupc-60e4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492628127015:android:0447b01420912c7d120d02",
+        "android_client_info": {
+          "package_name": "com.example.definitivo_porfavor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492628127015-dscli2ddeu6pp8bj5u05adtigh7didlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCU9rWKFGpr-1t0-BZ-SCD3aTZT7FawOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492628127015-dscli2ddeu6pp8bj5u05adtigh7didlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
